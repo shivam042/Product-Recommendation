@@ -8,9 +8,9 @@ Personalized product recommendations are the alternative way of navigating throu
 
 The recommendation engine, uses information about 16000 products and  each product will have multiple features named
 
-Title of the product  
-Brand of the product
-Color of the product
-Type of the product
+Title of the product,
+Brand of the product,
+Color of the product,
+Type of the product,
 Image of the apparel
 Data Source: Amazon.com
